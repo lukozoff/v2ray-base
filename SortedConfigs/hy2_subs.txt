@@ -1,3 +1,3 @@
-hy2://529a3d29-fcf2-4879-a580-611d9c027372@seoul4-500m.yljc.online:443/?mport=20001-25000&sni=1.nodes.yljc.online#%5B%F0%9F%8C%90Unknown%5D%20965ms
-hy2://zhangyang@130.61.50.75:6443/#%5B%F0%9F%87%A9%F0%9F%87%AAGermany%5D%20988ms
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=🔒#%5B%F0%9F%87%B3%F0%9F%87%B1Netherlands%5D%202712ms
+hy2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000/?sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%5B%F0%9F%87%B3%F0%9F%87%B1Netherlands%5D%202192ms
+hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org#%5B%F0%9F%8C%90SE%5D%202766ms
+hy2://zhangyang@130.61.50.75:6443/#%5B%F0%9F%87%A9%F0%9F%87%AAGermany%5D%202962ms
