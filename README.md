@@ -28,4 +28,4 @@
 Просто добавь ссылку на этот файл в свой клиент (**v2rayN**, **v2rayNG**, **Nekobox** и др.) как подписку:
 
 ```text
-[https://raw.githubusercontent.com/lukozoff/v2ray-base/main/V2rayCompletetest.txt](https://raw.githubusercontent.com/lukozoff/v2ray-base/main/V2rayCompletetest.txt)
+https://raw.githubusercontent.com/lukozoff/v2ray-base/main/V2rayCompletetest.txt](https://raw.githubusercontent.com/lukozoff/v2ray-base/main/V2rayCompletetest.txt
